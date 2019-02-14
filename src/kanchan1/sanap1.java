@@ -3,8 +3,7 @@ package kanchan1;
 public class sanap1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		system.out.println("kanchan");
 	}
 
 }
